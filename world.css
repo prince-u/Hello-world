@@ -1,9 +1,17 @@
 body{
     display:flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     height: 100vh;
-    font-size: 10rem;
     color:rgb(184, 0, 101);
     background-image: radial-gradient( yellow, blue);
+}
+
+.hello{
+    font-size: 10rem;
+}
+
+.commit{
+    font-size: 3rem;
 }
