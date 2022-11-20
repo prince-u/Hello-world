@@ -4,14 +4,15 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    color:rgb(184, 0, 101);
     background-image: radial-gradient( yellow, blue);
 }
 
 .hello{
     font-size: 10rem;
+    color:rgb(184, 0, 101);
 }
 
 .commit{
     font-size: 3rem;
+    color:rgb(0, 28, 184);
 }
