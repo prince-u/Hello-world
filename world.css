@@ -1,0 +1,9 @@
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: 10rem;
+    color:rgb(184, 0, 101);
+    background-image: radial-gradient( yellow, blue);
+}
